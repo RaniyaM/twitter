@@ -36,13 +36,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/RaniyaM/twitter/blob/master/TweetPt1.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-i want sure if i shoulddo the toolbar but the heleprs told me that isnt until next week
+i wasn't sure if i shoulddo the toolbar but the heleprs told me that isnt until next week
 
 ## Open-source libraries used
 
